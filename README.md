@@ -14,5 +14,9 @@ the steps to run the Colab notebook that trains a custom dataset using Mask R-CN
 3. In the code block, replace the string "path/to/dataset" with the path to the Google Drive folder containing your dataset.
 4. Run the rest of the code blocks in the Colab notebook to train the Mask R-CNN model with data augmentation
 
-![alt text](https://github.com/mshanah/looting-maskrcnn/blob/main/images/1.PNG?raw=true)
+the below sample of the evaluation images result 
+
+![alt text](https://github.com/mshanah/looting-maskrcnn/blob/main/images/6.PNG?raw=true)
+![alt text](https://github.com/mshanah/looting-maskrcnn/blob/main/images/7.PNG?raw=true)
+![alt text](https://github.com/mshanah/looting-maskrcnn/blob/main/images/8.PNG?raw=true)
 
