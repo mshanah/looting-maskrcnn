@@ -8,7 +8,7 @@ the steps to run the Colab notebook that trains a custom dataset using Mask R-CN
 #Steps
 1. Open the Colab notebook in Google Colab
 2. Mount the Google Drive to the Colab environment. To do this, follow these steps:
-  1. Click on the "Mount Drive" button in the code block.
-  2. Follow the instructions to sign in to your Google account and authorize Colab to access your Google Drive.
-  3. Enter the verification code provided.
+  - Click on the "Mount Drive" button in the code block.
+  - Follow the instructions to sign in to your Google account and authorize Colab to access your Google Drive.
+  - Enter the verification code provided.
 3. dsfsf 
