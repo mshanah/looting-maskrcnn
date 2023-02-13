@@ -1,0 +1,54 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [  
+    {
+      "label": "hole",
+      "points": [
+        [
+          375,
+          287
+        ], 
+        [
+          403,
+          264
+        ], 
+        [
+          388,
+          251
+        ], 
+        [
+          345,
+          248
+        ], 
+        [
+          324,
+          253
+        ], 
+        [
+          300,
+          268
+        ], 
+        [
+          335,
+          283
+        ], 
+        [
+          368,
+          288
+        ], 
+        [
+          373,
+          287
+        ] 
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }  
+  ],
+  "imagePath": "40.jpeg",
+  "imageData": null,
+  "imageHeight": "600",
+  "imageWidth": "400"
+}
