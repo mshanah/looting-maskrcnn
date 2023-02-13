@@ -1,11 +1,11 @@
 # looting-maskrcnn
 the steps to run the Colab notebook that trains a custom dataset using Mask R-CNN and data augmentation. The dataset is stored in Google Drive and needs to be mounted to the Colab environment before running the notebook.
 
-#Prerequisites
+# Prerequisites
 1. A Google account with access to Google Drive
 2. A Google Drive folder containing the dataset to be used for training
 
-#Steps
+# Steps
 1. Open the Colab notebook in Google Colab
 2. Mount the Google Drive to the Colab environment. To do this, follow these steps:
    1. Click on the "Mount Drive" button in the code block.
